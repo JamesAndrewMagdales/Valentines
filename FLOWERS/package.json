@@ -1,0 +1,12 @@
+{
+  "name": "flowers-valentine",
+  "version": "1.0.0",
+  "description": "Valentine's Day Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
